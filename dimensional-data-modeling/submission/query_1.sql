@@ -1,12 +1,12 @@
  CREATE TABLE shalshahrani27117.actors (
   actor VARCHAR,
-  actor_id INTEGER,
+  actor_id VARCHAR,
   films ARRAY(
     ROW(
       film VARCHAR,
       votes INTEGER,
       rating DOUBLE,
-      film_id INTEGER
+      film_id VARCHAR
      
     )
   ),
