@@ -1,4 +1,4 @@
-INSERT INTO bootcamp.actors
+INSERT INTO okaforoa.actors
 SELECT
   actor,
   actor_id,
