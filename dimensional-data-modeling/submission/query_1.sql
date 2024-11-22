@@ -1,4 +1,4 @@
-CREATE TABLE bootcamp.actors (
+CREATE TABLE okaforoa.actors (
   actor VARCHAR,
   actor_id VARCHAR,
   films ARRAY(
